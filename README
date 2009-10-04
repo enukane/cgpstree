@@ -1,0 +1,7 @@
+-- program name --
+cgpstree
+
+-- WTF is this? --
+pstree-like tool for cgroup
+aimed to provide tree view for cgroups and tasks belong to them
+
